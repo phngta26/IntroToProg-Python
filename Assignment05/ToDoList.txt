@@ -1,0 +1,6 @@
+eat 1
+sleep 2
+wash 3
+run 4
+work 5
+swim 6
